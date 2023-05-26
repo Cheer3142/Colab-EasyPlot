@@ -1,3 +1,3 @@
 # Colab-EasyPlot
 
-Easy plot Colab script that have upload and download feature
+Easy Plotting Script on Colab that have an upload and download features.
